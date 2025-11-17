@@ -1,0 +1,328 @@
+{
+  "fps": 24,
+  "duration": "8s",
+  "aspect_ratio": "9:16",
+  "style_notes": "Clean minimal aesthetic, soft gradients, calm confident motion, subtle turquoise/cyan accents, real-shot texture fidelity, high-end commercial tone, emotional undertone 'Make it yours'.",
+  "shots": [
+    {
+      "name": "MIWO INTRO AURA",
+      "frames": [
+        "Frame 1: Tabletop visible at bottom, product just entering frame from right-edge, background softly out of focus.",
+        "Frame 2: Camera moves slightly inward; product becomes more visible.",
+        "Frame 3: Product front face now in full view; lighting highlights front surface softly.",
+        "Frame 4: Subtle cyan fill light casts gentle accent on right side of product.",
+        "Frame 5: Slight reflection appears along the table surface beneath the product.",
+        "Frame 6: Product fully central; camera continues dolly-in.",
+        "Frame 7: Edge of product catches key light, small specular highlight appears.",
+        "Frame 8: Background blur deepens; product remains sharp.",
+        "Frame 9: Slight shadow beneath product shifts gently as camera moves.",
+        "Frame 10: Product front face remains in focus; lighting consistent.",
+        "Frame 11: Cyan accent becomes more noticeable on right side.",
+        "Frame 12: Camera continues dolly to mid-position; table surface texture subtly visible.",
+        "Frame 13: Minor shift in angle reveals thin side of product.",
+        "Frame 14: Lighting remains soft; no harsh shadows.",
+        "Frame 15: Product color fidelity is perfect — accurate to the reference.",
+        "Frame 16: Reflection beneath product subtly changes with camera motion.",
+        "Frame 17: Camera close enough that product fills ~60% of frame.",
+        "Frame 18: Specular highlight on edge pulses gently as camera moves.",
+        "Frame 19: Cyan accent remains consistent.",
+        "Frame 20: Slight drift of background blur; product remains pinned.",
+        "Frame 21: Product front face fully centered, minimal camera motion.",
+        "Frame 22: Table surface shadow reshapes slightly.",
+        "Frame 23: Camera dolly slows down, nearing stop.",
+        "Frame 24: End of shot: product perfectly framed, soft light wrap, background out of focus."
+      ],
+      "camera": {
+        "focal_length": "50mm",
+        "aperture": "f/2.2",
+        "motion_speed": "≈3 cm/s dolly in"
+      },
+      "lighting": {
+        "key": "softbox top-left 45°",
+        "fill": "LED panel right-front low",
+        "rim": "cyan LED narrow beam behind right rear",
+        "temp": "5200K + cyan accent"
+      }
+    },
+    {
+      "name": "ARTISTIC SIDE ARC",
+      "frames": [
+        "Frame 1: Camera begins on left side of product, table and background visible.",
+        "Frame 2: Start of arc movement: product still front-facing but slight side visible.",
+        "Frame 3: Product turned ~10° as camera moves.",
+        "Frame 4: Backlight engages subtly—cyan rim starts to show on far edge.",
+        "Frame 5: Product turned ~20°; lighting accentuates contour.",
+        "Frame 6: Reflection of table surface shifts.",
+        "Frame 7: Product turned ~30°; camera moving smoothly.",
+        "Frame 8: Depth of field shows edge spring into view.",
+        "Frame 9: Cyan accent stronger on the far side.",
+        "Frame 10: Product turned ~40°; lighting consistent.",
+        "Frame 11: Texture of side visible.",
+        "Frame 12: Arc continues; product ~50° turned.",
+        "Frame 13: Specular highlight on side rim.",
+        "Frame 14: Reflection shift on table.",
+        "Frame 15: Product ~60° turned; front face partly visible.",
+        "Frame 16: Shadow beneath product softens.",
+        "Frame 17: Cyan accent gently pulses with movement.",
+        "Frame 18: Arc almost complete; product ~70° turned.",
+        "Frame 19: Final side profile nearly in view.",
+        "Frame 20: Camera movement slows.",
+        "Frame 21: Product ~80° turned; nearly full side view.",
+        "Frame 22: Arc ends; camera stabilizes.",
+        "Frame 23: Product remains in frame center, slight motion.",
+        "Frame 24: End of shot: full side profile, lighting balanced, background soft."
+      ],
+      "camera": {
+        "focal_length": "50mm",
+        "aperture": "f/2.2",
+        "motion_speed": "≈4 cm/s arc"
+      },
+      "lighting": {
+        "key": "softbox top-left 45°",
+        "fill": "LED panel right-front low",
+        "rim": "cyan LED narrow beam behind right rear",
+        "temp": "5200K + cyan accent"
+      }
+    },
+    {
+      "name": "MACRO TEXTURE EMOTION",
+      "frames": [
+        "Frame 1: Macro lens, product surface in extreme close-up: fine material texture.",
+        "Frame 2: Camera moves micro-forward (~1 mm) toward surface.",
+        "Frame 3: Specular light small highlight appears on texture.",
+        "Frame 4: Cyan accent faint on edge of texture.",
+        "Frame 5: Material grain becomes sharper.",
+        "Frame 6: Slight micro shift of angle reveals more highlight.",
+        "Frame 7: Texture pattern fully resolved.",
+        "Frame 8: Reflection of soft box edges glimpsed.",
+        "Frame 9: Camera continues micro-motion: tiny forward.",
+        "Frame 10: Highlight subtly shifts right.",
+        "Frame 11: Shadow from texture depth becomes visible.",
+        "Frame 12: Cyan fill light touches bottom-right edge.",
+        "Frame 13: Micro movement upward ~0.5 mm.",
+        "Frame 14: Specular highlight moves accordingly.",
+        "Frame 15: Texture depth emphasized.",
+        "Frame 16: Camera motion slows.",
+        "Frame 17: Negative space of the texture around product edge becomes visible.",
+        "Frame 18: Lighting remains constant, no flicker.",
+        "Frame 19: Tiny shift left ~0.5 mm.",
+        "Frame 20: Highlight softens.",
+        "Frame 21: Camera almost static now.",
+        "Frame 22: Depth of field minimal; only texture in focus.",
+        "Frame 23: End of shot imminent.",
+        "Frame 24: Final frame: surface texture perfectly in view, balanced lighting."
+      ],
+      "camera": {
+        "focal_length": "100mm macro",
+        "aperture": "f/2.2",
+        "motion_speed": "≈0.2 cm/s micro-forward"
+      },
+      "lighting": {
+        "key": "softbox top-left 45° (close)",
+        "fill": "LED panel right-front low (soft)",
+        "rim": "cyan LED narrow beam behind right rear (soft)",
+        "temp": "5200K + cyan accent"
+      }
+    },
+    {
+      "name": "SIGNATURE DESIGN HIGHLIGHT",
+      "frames": [
+        "Frame 1: Product front face visible; camera at low angle beneath product mid-height.",
+        "Frame 2: Camera tilts upward by ~2°.",
+        "Frame 3: Product tilts back slightly (~5°) on tabletop.",
+        "Frame 4: Key light catches top edge of product.",
+        "Frame 5: Side rim visible; cyan accent backlight begins.",
+        "Frame 6: Camera tilt ~10°.",
+        "Frame 7: Shadow beneath product front shifts.",
+        "Frame 8: Reflection on tabletop faint but present.",
+        "Frame 9: Camera tilt ~15°.",
+        "Frame 10: Product top edge fully visible; logo comes into view.",
+        "Frame 11: Lighting remains steady; no flicker.",
+        "Frame 12: Camera tilt ~20°.",
+        "Frame 13: Cyan rim light stronger on upper edge.",
+        "Frame 14: Micro move left ~0.3°.",
+        "Frame 15: Table texture visible at bottom of frame.",
+        "Frame 16: Camera tilt ~22°.",
+        "Frame 17: Product lean ~7°.",
+        "Frame 18: Specular highlight on logo.",
+        "Frame 19: Micro motion slows.",
+        "Frame 20: Camera tilt ~24°.",
+        "Frame 21: Product front face now partially visible due to tilt.",
+        "Frame 22: End approach.",
+        "Frame 23: Movement reduces to near static.",
+        "Frame 24: Final frame: product tilt exposed, lighting perfect."
+      ],
+      "camera": {
+        "focal_length": "50mm",
+        "aperture": "f/2.2",
+        "motion_speed": "≈2 cm/s tilt"
+      },
+      "lighting": {
+        "key": "softbox top-left 45°",
+        "fill": "LED panel right-front low",
+        "rim": "cyan LED narrow beam behind right rear",
+        "temp": "5200K + cyan accent"
+      }
+    },
+    {
+      "name": "HERO TOP-DOWN REVEAL",
+      "frames": [
+        "Frame 1: Camera directly above product showing table surrounding.",
+        "Frame 2: Slow zoom-out begins (~1% zoom).",
+        "Frame 3: Product centered; table edge begins to recede.",
+        "Frame 4: Cyan rim light on outer edge visible.",
+        "Frame 5: Background blur increased.",
+        "Frame 6: Zoom-out continues.",
+        "Frame 7: Reflection beneath product appears.",
+        "Frame 8: Table surface texture begins to soften.",
+        "Frame 9: Product occupies ~50% of frame.",
+        "Frame 10: Lighting consistent.",
+        "Frame 11: Zoom ~1.5%.",
+        "Frame 12: Cyan accent remains subtle.",
+        "Frame 13: Micro motion slows.",
+        "Frame 14: Camera almost static zoom.",
+        "Frame 15: Product still front-facing, flat.",
+        "Frame 16: Table boundary nearly out of frame.",
+        "Frame 17: Zoom ~2%.",
+        "Frame 18: Reflection slight shift.",
+        "Frame 19: Depth of field soft background.",
+        "Frame 20: Zoom ~2.5%.",
+        "Frame 21: Movement slows further.",
+        "Frame 22: Final stable shot.",
+        "Frame 23: Product fully revealed in hero framing.",
+        "Frame 24: End of shot: top-down view, product centered, lighting calm."
+      ],
+      "camera": {
+        "focal_length": "50mm",
+        "aperture": "f/2.2",
+        "motion_speed": "≈1 cm/s zoom-out"
+      },
+      "lighting": {
+        "key": "softbox above",
+        "fill": "LED panel right-front low",
+        "rim": "cyan LED narrow beam behind right rear",
+        "temp": "5200K + cyan accent"
+      }
+    },
+    {
+      "name": "HUMAN CONNECTION HAND PICKUP",
+      "frames": [
+        "Frame 1: Product on table, camera medium close.",
+        "Frame 2: Human hand enters frame from left edge.",
+        "Frame 3: Fingers gently touch product side.",
+        "Frame 4: Camera begins slight rack focus from product to hand.",
+        "Frame 5: Hand lifts product ~1 cm.",
+        "Frame 6: Lighting catches hand, product front visible.",
+        "Frame 7: Camera tilt ~1°.",
+        "Frame 8: Cyan accent on product outer edge.",
+        "Frame 9: Hand lifts further ~2 cm.",
+        "Frame 10: Table shadow shifts under product.",
+        "Frame 11: Reflection of hand visible on table.",
+        "Frame 12: Camera rack focus now sharper on hand and product together.",
+        "Frame 13: Hand rotates product slightly (~5°) while lifting.",
+        "Frame 14: Product front face visible, still correct color.",
+        "Frame 15: Micro motion of hand (~0.2°) begins.",
+        "Frame 16: Shadow beneath product soft.",
+        "Frame 17: Human hand completes lift.",
+        "Frame 18: Camera stabilizes.",
+        "Frame 19: Hand holds product; product centered.",
+        "Frame 20: Slight micro sway of hand (~0.2°).",
+        "Frame 21: End motion begins.",
+        "Frame 22: Hand still, product in hand, lighting consistent.",
+        "Frame 23: Camera holds.",
+        "Frame 24: Final frame: human connection established, product in hand, mood calm & confident."
+      ],
+      "camera": {
+        "focal_length": "50mm",
+        "aperture": "f/2.2",
+        "motion_speed": "≈3 cm/s lift motion"
+      },
+      "lighting": {
+        "key": "softbox top-left 45°",
+        "fill": "LED panel right-front low",
+        "rim": "cyan LED narrow beam behind right rear",
+        "temp": "5200K + cyan accent"
+      }
+    },
+    {
+      "name": "ROTATION IN HAND",
+      "frames": [
+        "Frame 1: Hand holding product front face toward camera.",
+        "Frame 2: Camera begins circular dolly around hand (~10° movement).",
+        "Frame 3: Product rotates ~5° within hand.",
+        "Frame 4: Cyan rim light catches far edge.",
+        "Frame 5: Camera completes ~15° of arc.",
+        "Frame 6: Product rotates ~10° more.",
+        "Frame 7: Reflection of thumb on product surface appears.",
+        "Frame 8: Camera side view ~30° from original.",
+        "Frame 9: Product rotates ~15°.",
+        "Frame 10: Depth-of-field keeps hand softly blurred, product sharp.",
+        "Frame 11: Cyan accent stronger.",
+        "Frame 12: Camera arc ~40°.",
+        "Frame 13: Product rotates ~20°.",
+        "Frame 14: Shadow beneath hand soft.",
+        "Frame 15: Camera arc slows.",
+        "Frame 16: Product rotation ~25°.",
+        "Frame 17: Lighting steady.",
+        "Frame 18: Camera arc ~45°.",
+        "Frame 19: Product rotation ~30°.",
+        "Frame 20: Camera begins end of arc.",
+        "Frame 21: Product almost back to front-facing.",
+        "Frame 22: Arm slightly visible holding product; lighting reveals material texture.",
+        "Frame 23: Micro motion ends.",
+        "Frame 24: Final frame: hand still holding product, product rotated to natural position, lighting calm."
+      ],
+      "camera": {
+        "focal_length": "50mm",
+        "aperture": "f/2.2",
+        "motion_speed": "≈3 cm/s circular"
+      },
+      "lighting": {
+        "key": "softbox top-left 45°",
+        "fill": "LED panel right-front low",
+        "rim": "cyan LED narrow beam behind right rear",
+        "temp": "5200K + cyan accent"
+      }
+    },
+    {
+      "name": "MIWO SIGNATURE OUTRO",
+      "frames": [
+        "Frame 1: Product upright front-facing, camera at medium-wide.",
+        "Frame 2: Slow dolly away begins (~0.5% zoom out).",
+        "Frame 3: Background blur increases subtly.",
+        "Frame 4: Cyan accent on right edge of product fades gently.",
+        "Frame 5: Table surface visible but receding.",
+        "Frame 6: Dolly out ~1%.",
+        "Frame 7: Specular highlight on product edge dims.",
+        "Frame 8: Shadow beneath product softens.",
+        "Frame 9: Dolly out ~1.5%.",
+        "Frame 10: Product occupies ~40% frame.",
+        "Frame 11: Lighting still consistent.",
+        "Frame 12: Dolly out ~2%.",
+        "Frame 13: Background blur stronger, product remains sharp.",
+        "Frame 14: Cyan accent nearly gone.",
+        "Frame 15: Dolly out ~2.5%.",
+        "Frame 16: Table edge about to exit frame.",
+        "Frame 17: Reflective highlight on product top edge.",
+        "Frame 18: Dolly out ~3%.",
+        "Frame 19: Product centered, ambient around it soft.",
+        "Frame 20: Micro motion slows.",
+        "Frame 21: Dolly out ~3.2%.",
+        "Frame 22: Final approach: product remains crisp, lighting calm.",
+        "Frame 23: Dolly out stops.",
+        "Frame 24: Final frame: product timeless, minimal backdrop, brand identity conveyed."
+      ],
+      "camera": {
+        "focal_length": "50mm",
+        "aperture": "f/2.2",
+        "motion_speed": "≈2 cm/s dolly out"
+      },
+      "lighting": {
+        "key": "softbox top-left 45°",
+        "fill": "LED panel right-front low",
+        "rim": "cyan LED narrow beam behind right rear",
+        "temp": "5200K + cyan accent"
+      }
+    }
+  ]
+}

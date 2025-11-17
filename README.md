@@ -123,6 +123,10 @@ see [here](/assets/texts/t2v_samples.txt) for full prompts.
 
 </details>
 
+### Storyboard assets
+
+- [MIWO "Make it yours" storyboard](/assets/storyboards/miwo_make_it_yours.json): 8-second, 9:16 product spot with seven camera set pieces, matching lighting notes, motion pacing, and style guidance for turquoise-accented commercial cinematography.
+
 ## 🔆 Reports
 
 - **[Tech Report of Open-Sora 2.0](https://arxiv.org/abs/2503.09642v1)**
